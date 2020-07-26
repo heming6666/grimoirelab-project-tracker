@@ -4,9 +4,7 @@
 
 <p align="center">
 	<a href="#project-abstract">Project Abstract</a> | 
-	<a href="#pull-requests--issues">Pull Requests & Issues</a> | 
-	<a href="#weekly-updates">Weekly Updates</a> | 
-	<a href="#links">Links</a>
+	<a href="#weekly-report">Weekly Report</a>
 </p>
 <br>
 
@@ -33,7 +31,7 @@
 
 **Work With**: [@wengzhenjie](https://github.com/wengzhenjie)
 
-# Weekly Updates
+# Weekly Report
 ##  2020/7/20 - 2020/7/26
 ### [X-lab2017/grimoirelab](https://github.com/X-lab2017/grimoirelab)
 #### Commits

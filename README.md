@@ -32,7 +32,7 @@
 **Work With**: [@wengzhenjie](https://github.com/wengzhenjie)
 
 # Weekly Report
-##  2020/7/20 - 2020/7/26
+##  2020/7/23 - 2020/7/29
 ### [X-lab2017/grimoirelab](https://github.com/X-lab2017/grimoirelab)
 #### Commits
 - [Add docker-compose file for grimoirelab-gitee plugin](https://github.com/X-lab2017/grimoirelab/commit/a761269db8b7a57d6e27a7f226c564f5c0b04e74)

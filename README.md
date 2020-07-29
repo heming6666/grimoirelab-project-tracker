@@ -54,6 +54,10 @@
 #### Issues
 
 ### [X-lab2017/grimoirelab-sigils](https://github.com/X-lab2017/grimoirelab-sigils)
+
+#### Pull Requests
+- [#12](https://github.com/X-lab2017/grimoirelab-sigils/pull/12): [gitee] add gitee data source to Data-Status panel.
+
 #### Issues
 - [#9](https://github.com/X-lab2017/grimoirelab-sigils/issues/9): [Bug] gitee_issues_timing search error.
 
